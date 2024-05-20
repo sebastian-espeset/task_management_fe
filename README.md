@@ -1,4 +1,4 @@
-This is the front end of the Task Management Tool, built with React and Vite. It provides a user-friendly interface for managing tasks and projects.
+This is the front end of the Task Management Tool, built with React and Vite. It provides a user-friendly interface for managing tasks and projects. The backend can be found at, `https://github.com/sebastian-espeset/task_management_be`
 
 ## Features
 
