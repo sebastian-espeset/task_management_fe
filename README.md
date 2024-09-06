@@ -6,7 +6,7 @@ This is the front end of the Task Management Tool, built with React and Vite. It
 - Dashboard to view all projects
 - Project detail view with tasks
 - Add new tasks to projects
-
+- Backend found at https://github.com/sebastian-espeset/task_management_fe
 ## Technologies
 
 - React
@@ -19,7 +19,7 @@ This is the front end of the Task Management Tool, built with React and Vite. It
 ## Setup
 
 1. Clone the repository:
-  - git clone https://github.com/sebastian-espeset/task-management-frontend.git
+  - git clone 
   - cd task-management-frontend
   - Install dependencies: `npm install`
 
